@@ -1,0 +1,1 @@
+Hola, esta es mi carpeta de Visual Studio Code para ayudar a las personas uqe quieren empezar a programar. Me centro mas en "Java", todo estos archivos etsan hechos con la ayuda del canal "La Geekipedia De Ernesto", asi que vayan a paoyra este canal. Gracias
